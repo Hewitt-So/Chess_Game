@@ -1,2 +1,3 @@
 # Chess_Game
-Chess game in Javaa
+Chess game in Java
+First time:)
